@@ -1,0 +1,19 @@
+{
+    "name": "bit/afip.php",
+    "type": "library",
+    "description": "Libreria para usar los Web Services de AFIP (Argentina) ",
+   
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "authors": [
+        {
+            "name": "bit Afip",
+            "email": "lucianojs110@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [ "src/Afip.php" ]
+    }
+}
