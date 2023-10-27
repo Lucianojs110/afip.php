@@ -119,8 +119,8 @@ class Afip {
 
 		$this->options = $options;
 
-		$this->CERT 		= $this->RES_FOLDER.$options['cert'];
-		$this->PRIVATEKEY 	= $this->RES_FOLDER.$options['key'];
+		$this->CERT 		= $options['cert'];
+		$this->PRIVATEKEY 	= $options['key'];
 
 		$this->WSAA_WSDL 	= __DIR__.'/Afip_res/'.'wsaa.wsdl';
 		
