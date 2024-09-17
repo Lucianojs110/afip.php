@@ -1,5 +1,5 @@
 {
-    "name": "bittecnologias/afip.php",
+    "name": "lucianojs/afip.php",
     "type": "library",
     "description": "Libreria para usar los Web Services de AFIP (Argentina) ",
    
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "bit Afip",
+            "name": "Luciano Afip",
             "email": "lucianojs110@gmail.com"
         }
     ],
